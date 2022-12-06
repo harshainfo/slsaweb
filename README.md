@@ -1,10 +1,9 @@
 # SlsaWeb 
 
+This is a single page application developed using the tools html, css, bootstrap, jquery, nodejs, and Angular!
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
-
-## Production server
-
-This project is temporarily hosted in heroku. [Heroku Link](https://slsa-uiowa.herokuapp.com/)
 
 ## Development server
 
