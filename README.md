@@ -2,6 +2,7 @@
 
 This is a single page application developed using the tools html, css, bootstrap, jquery, nodejs, and Angular!
 
+This website was developed for the Sri Lankan Students' Association of University of Iowa.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
