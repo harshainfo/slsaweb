@@ -5,7 +5,7 @@ This is a single page application developed using the tools html, css, bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
-![](https://github.com/harshainfo/slsaweb/blob/master/app_movie.gif | width=200)
+<img src="https://github.com/harshainfo/slsaweb/blob/master/app_movie.gif" data-canonical-src="https://github.com/harshainfo/slsaweb/blob/master/app_movie.gif" width="800" height="500" />
 
 ## Development server
 
